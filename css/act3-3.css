@@ -1,0 +1,46 @@
+
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+}
+
+
+.el {
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    font-size: 1.5em;
+    line-height: normal; 
+    width: 303.7px; 
+    height: 3em;    
+    border-radius: 5px; 
+}
+
+.el a{
+    color: white;
+    text-decoration: none;
+}
+
+.el a:hover{
+    color: rgb(255, 0, 0);
+    text-decoration: underline;
+}
+
+.llimona{
+    background-color: lawngreen;
+ }
+
+ .verd{
+    background-color: green;
+ }
+
+ .blau{
+    background-color: blue;
+ }
+
+ .negre{
+    background-color: black;
+ }
